@@ -1,0 +1,1 @@
+This project is to put all what I have learnt in HTML into practice. Also, it would help in enhancing my usage of git and github. The project would be based on creating a simple recipe website.

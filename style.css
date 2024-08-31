@@ -1,0 +1,17 @@
+body {
+    background-color: azure;
+}
+h1 {
+    border: 5px red solid;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+}
+ul li {
+    list-style: none;
+    padding: 10px;
+    color: brown;
+}
+ul li a {
+    text-decoration: none;
+}
